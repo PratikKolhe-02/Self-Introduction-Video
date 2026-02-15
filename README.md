@@ -4,8 +4,7 @@ Name: Pratik Kolhe
 University: VIT Bhopal
 Tech Stack: MERN (MongoDB, Express, React, Node.js) &amp;
 C++  Current Focus: Backend scalability and AI-assisted systems.
-Video link:
+Video link: https://github.com/user-attachments/assets/6324f764-a621-4746-bb01-9f087aade501
 
 
-https://github.com/user-attachments/assets/6324f764-a621-4746-bb01-9f087aade501
-
+Note: "Due to compression, the audio is low. For the best experience, please use a media player like VLC to boost the volume"
